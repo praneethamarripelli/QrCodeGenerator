@@ -1,2 +1,2 @@
 ## QR-Code Generator ## 
-https://github.com/praneethamarripelli/QrCodeGenerator.git
+https://qr-code-generator-chi-ashy.vercel.app/
